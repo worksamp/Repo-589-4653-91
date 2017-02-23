@@ -6,7 +6,7 @@
 <html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-		<title>Spring MVC Form Handling test </title>
+		<title>Spring MVC Form Hand Demo 23 Feb 5pm</title>
 	</head>
 	<body>
 		<h2>Add Employee Data </h2>
